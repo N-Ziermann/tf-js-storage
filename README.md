@@ -4,12 +4,10 @@
 
 TF-JS-Storage serves as an extension of [tensorflow.js](https://www.tensorflow.org/js/). It offers functions for storing tensors in web storage as well as turning them into strings.
 
-An example of a use case for this extension might be to store a mode to later compare it to a different one or to store the training progress of a model to further improve it at a later point in time.
 An example of a use case for this extension might be to store a model to later compare it to a different one or to store the training progress of a model to further improve it at a later point in time.
 
 ## Installation
 
-Method 1: Install the *tfStorage.js* file and import it like this:
 Method 1: Download the *tfStorage.js* file and import it like this:
 
 ```html
