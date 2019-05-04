@@ -1,4 +1,3 @@
-# tf js storage
 # TF-JS-Storage
 
 **Version 1.0.0**
